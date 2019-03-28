@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/
+Skype/__pycache__/
+log/
+DataBase.db
+.tokens-app
